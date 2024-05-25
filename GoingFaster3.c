@@ -1,4 +1,4 @@
-#Going Faster 3
+//Going Faster 3
 
 #include <stdio.h>
 #include <stdlib.h>
